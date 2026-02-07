@@ -404,3 +404,7 @@ footer {
     transform: translateX(60px);
     opacity: 1;
 }
+
+.fa-arrow-up {
+    color: white;
+}
